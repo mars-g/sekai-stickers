@@ -43,7 +43,6 @@ function App() {
   const [spaceSize, setSpaceSize] = useState(1);
   const [rotate, setRotate] = useState(characters[character].defaultText.r);
   const [curve, setCurve] = useState(false);
-  const [color, setColor] = useState(characters[character].color);
   const [loaded, setLoaded] = useState(false);
   const img = new Image();
 
