@@ -1118,6 +1118,35 @@
             "r": -2,
             "s": 47
         }
+    },
+    {
+        "id":"96",
+	"name":"katalina 05",
+	"character": "katalina",
+	"img":"katalina/katalina_05.webp",
+	"color": "#F86666",
+	"defaultText": {
+		"text":"oh no",
+		"x": 148,
+		"y": 58,
+		"r": 0,
+		"s": 47
+	}
+    },
+    {
+	 "id":"96",
+	 "name":"katalina pensive",
+	 "character": "katalina",
+	 "img":"katalina/katpensive.png",
+	 "color": "#F86666",
+	 "defaultText": {
+		 "text":"lose casey",
+		 "x": 148,
+		 "y": 58,
+		 "r": 0,
+		 "s": 47
+	 }
+
     }
 
 ]
